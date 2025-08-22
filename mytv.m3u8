@@ -80,9 +80,6 @@ http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=t
 #EXTINF:-1  tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/CCTV风云剧场",风云剧场
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls
 
-#EXTINF:-1  tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/CCTV兵团卫视",兵团卫视
-http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226308/1/index.m3u8?fmt=ts2hls
-
 #EXTINF:-1  tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/CCTV风云足球",风云足球
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
 
@@ -140,9 +137,6 @@ http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225728/1/index.m3u8?fmt=t
 #EXTINF:-1  tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/广东卫视",广东卫视
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225720/1/index.m3u8?fmt=ts2hls
 
-#EXTINF:-1  tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/江苏卫视",人文贵州
-http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226267/1/index.m3u8?fmt=ts2hls
-
 #EXTINF:-1  tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/江苏卫视",江苏卫视
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225751/1/index.m3u8?fmt=ts2hls
 
@@ -173,6 +167,9 @@ http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225755/1/index.m3u8?fmt=t
 #EXTINF:-1  tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/贵州卫视",贵州卫视
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225703/1/index.m3u8?fmt=ts2hls
 
+#EXTINF:-1 ,人文贵州
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226315/1/index.m3u8?fmt=ts2hls
+
 #EXTINF:-1  tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/辽宁卫视",辽宁卫视
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225717/1/index.m3u8?fmt=ts2hls
 
@@ -182,7 +179,7 @@ http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225686/1/index.m3u8?fmt=t
 #EXTINF:-1  tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/黑龙江卫视",黑龙江卫视
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225758/1/index.m3u8?fmt=ts2hls
 
-#EXTINF:-1 ,人文贵州
-http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226315/1/index.m3u8?fmt=ts2hls
+
+
 
 
